@@ -14,7 +14,7 @@ $(document).ready(function() {
                 e >= 30 && (clearInterval(c), n()), e += 1, a.css("width", e + "%")
             }, 45)
     }
-    $.backstretch("https://f.top4top.io/p_2304ev7g60.jpg"), $(".feature").matchHeight(), $("#generate-btn").on("click", function() {
+    $.backstretch("https://i.top4top.io/p_2304uf9ss0.jpg"), $(".feature").matchHeight(), $("#generate-btn").on("click", function() {
         $(".popup-modal > .overlay").fadeIn(function() {
             $("#loading-modal").slideDown(), a(function() {
                 $("#loading-modal").slideUp(function() {
