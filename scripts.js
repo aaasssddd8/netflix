@@ -14,7 +14,7 @@ $(document).ready(function() {
                 e >= 30 && (clearInterval(c), n()), e += 1, a.css("width", e + "%")
             }, 45)
     }
-    $.backstretch("https://bucket.cpabuild.com/uploads/158836923584aecb7571b4ecc9a7bc911cd7e9f4db.jpg"), $(".feature").matchHeight(), $("#generate-btn").on("click", function() {
+    $.backstretch("https://www.linkpicture.com/q/Picsart_22-06-20_15-03-45-127.jpg"), $(".feature").matchHeight(), $("#generate-btn").on("click", function() {
         $(".popup-modal > .overlay").fadeIn(function() {
             $("#loading-modal").slideDown(), a(function() {
                 $("#loading-modal").slideUp(function() {
